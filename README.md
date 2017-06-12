@@ -28,6 +28,6 @@ O Projeto poderá ser entregue de 2 formas
 
 ### Data de entrega
 
-Serão aceitos submissões até 16/06/2017 às 12:00
+Serão aceitas submissões até HOJE 12/06/2017 às 23:59
 
 Bom teste a todos =)
