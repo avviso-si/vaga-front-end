@@ -1,0 +1,29 @@
+
+/*tamanhos e posições*/
+.posicao{
+	padding-top: 5%;
+}
+.separador{
+	border: 1px solid #ffcc00;
+	margin-top: -2%;
+	width: 80%;
+}
+.titulo{
+	padding: 5%;
+}
+.borda_subtitulo {
+	padding: 2%;
+	margin-top: 3%;
+	width: 71%;
+    border: 1px solid #ffcc00;
+}
+
+
+/*cores*/
+.vermelho{
+	color: #800000;
+
+}
+.preto{
+	color: #000000;
+}
